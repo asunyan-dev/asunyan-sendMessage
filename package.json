@@ -6,6 +6,10 @@
   "author": "Asuka Libessart",
   "type": "module",
   "main": "index.js",
+  "types": "types.d.ts",
+  "dependencies": {
+    "discord.js": "^14.23.2"
+  },
   "exports": {
     ".": {
       "import": "./index.js",
