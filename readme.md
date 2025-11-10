@@ -1,17 +1,17 @@
-# asunyan-sendMessage
+# asunyan-sendmessage
 
 A simple module to send messages with discord.js to a specified channel in a specified guild.
 
 ## Install
 
 ```bash
-$ npm install asunyan-sendMessage
+$ npm install asunyan-sendmessage
 ```
 
 ## Usage
 
 ```js
-const { sendMessage } = require('asunyan-sendMessage');
+const { sendMessage } = require('asunyan-sendmessage');
 
 const message = await sendMessage(client, guildId, channelId, data).catch((err) => console.error(err));
 
