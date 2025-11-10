@@ -1,0 +1,34 @@
+{
+  "name": "asunyan-sendmessage",
+  "version": "1.0.0",
+  "description": "Small module to send messages to a specific channel with discord.js",
+  "license": "MIT",
+  "author": "Asuka Libessart",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": {
+      "import": "./index.js",
+      "require": "./index.js",
+      "types": "./types.d.ts"
+    }
+  },
+  "files": [
+    "index.js",
+    "types.d.ts"
+  ],
+  "keywords": [
+    "send-messages",
+    "discord.js",
+    "javascript",
+    "typescript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asunyan-dev/asunyan-sendmessage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/asunyan-dev/asunyan-sendmessage/issues"
+  },
+  "homepage": "https://github.com/asunyan-dev/asunyan-sendmessage#readme"
+}
