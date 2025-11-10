@@ -25,10 +25,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/asunyan-dev/asunyan-sendmessage.git"
+    "url": "https://github.com/asunyan-dev/asunyan-sendMessage.git"
   },
   "bugs": {
-    "url": "https://github.com/asunyan-dev/asunyan-sendmessage/issues"
+    "url": "https://github.com/asunyan-dev/asunyan-sendMessage/issues"
   },
-  "homepage": "https://github.com/asunyan-dev/asunyan-sendmessage#readme"
+  "homepage": "https://github.com/asunyan-dev/asunyan-sendMessage#readme"
 }
